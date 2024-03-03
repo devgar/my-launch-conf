@@ -14,8 +14,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "my-launch-conf.helloWorld",
-        "title": "Hello World"
+        "command": "my-launch-conf.add-conf",
+        "title": "Add conf to launch"
+      },
+      {
+        "command": "my-launch-conf.set-sufix-a-type",
+        "title": "Set type as sufix"
       }
     ]
   },
